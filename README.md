@@ -1,4 +1,4 @@
-# Dataset-PTDLNC
+# Dataset
 Repository này chứa các bộ dữ liệu phục vụ cho các môn học tại trường
 
 ## Danh sách dữ liệu
